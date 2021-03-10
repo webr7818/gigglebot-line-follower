@@ -1,5 +1,5 @@
 gigglebot.setSpeed(gigglebotWhichMotor.Both, 60)
-let threshold = 1
+let threshold = 150
 let right = 0
 let left = 0
 while (true) {
